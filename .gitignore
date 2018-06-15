@@ -1,7 +1,0 @@
-target/
-overlays/
-.gitignore
-.idea/
-*.iml
-rice-framework/krad-web/src/main/webapp/krad/min
-velocity.log
